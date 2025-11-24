@@ -1,0 +1,15 @@
+Recap of prompts below, showing only user-side:
+
+PROMPT 1:
+make a web app: react vite + node backend (nestjs) where the user insert a password and it is stored in a secure way. Initially just store it in memory, without any db integration, this password must be store in a secure
+ way (encrypt it), once a button is pressed under the input of that password, a link or a shortlink is created, this links later redirects to a page containing the plain text of the password. never store the plain text in 
+memory and never log it. Once the link is opened, the password is delated from the memory. Initially the memory can be a typescript map. 
+
+PROMPT 2:
+which is the starting point for the frontend 
+
+PROMPT 3 (after CC bugged out):
+keep genearating the last point of the todo list, i want to accept  frontend\src\pages\HomePage.css
+
+PROMPT 4:
+/init
